@@ -4,6 +4,10 @@ E-commerce platforms like Shopify and WooCommerce provide a suite of services to
 
 ## Description
  A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
+ 
+ <img width="698" alt="Screen Shot 2022-06-22 at 11 11 52 AM" src="https://user-images.githubusercontent.com/97990379/175113608-edfae83e-23de-45b2-a0e9-39a8f48ade68.png">
+
+
 
   The full movie file showing functionality of the application (youtube link below)
  
