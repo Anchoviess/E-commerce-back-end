@@ -67,7 +67,4 @@ npm start
 
 
 
-
-No testing is currently set up
-
 - Anthony Ledesma
