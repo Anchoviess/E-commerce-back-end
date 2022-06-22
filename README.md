@@ -6,6 +6,8 @@
 
   The full movie file showing functionality of the application
  
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/skv5_RSiv9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 ## User Story
 
 AS A manager at an internet retail company
