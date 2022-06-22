@@ -1,5 +1,6 @@
 # Object-Relational Mapping (ORM): E-Commerce Back End 
 
+E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites.
 
 ## Description
  A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
